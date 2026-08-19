@@ -1,0 +1,6 @@
+{
+  "name": "JSON Studio & Code Generator",
+  "description": "Developer utility for JSON formatting, minifying, parsing & validation, and instant code generation for Dart, TypeScript, PHP, and C# models with a modern dark mode interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
